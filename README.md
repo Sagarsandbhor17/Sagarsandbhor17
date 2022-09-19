@@ -36,9 +36,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Sagarsandbhor17/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sagar Sandbhor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarsandbhor17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  | ![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=Sagarsandbhor17&show_icons=true&theme=tokyonight) | ![Sagar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagarsandbhor17&theme=tokyonight) |
+| --- | --- |
 </p>
 
 ## 📊 My Github Stats
