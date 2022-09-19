@@ -52,7 +52,8 @@
 
 <br/>
 <br/>
-
+📈 Activity Graph
+<br/>
 <a href="https://github.com/Sagarsandbhor17/github-readme-activity-graph"><img alt="Sagar Sandbhor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sagarsandbhor17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
@@ -71,5 +72,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sagarsandbhor17">
 </a>
- 📈 Activity Graph
 <a href="https://github.com/Sagarsandbhor17?tab=followers"><img src="https://img.shields.io/github/followers/Sagarsandbhor17?label=Followers&style=social" alt="GitHub Badge"></a>
