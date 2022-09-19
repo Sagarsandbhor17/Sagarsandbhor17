@@ -54,7 +54,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left" display="flex">
+<p align="left" >
 
 <a href = "https://www.linkedin.com/in/sagar-sandbhor-896474233"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
