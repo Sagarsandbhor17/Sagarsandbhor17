@@ -7,7 +7,7 @@
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 👨‍💻 My Portfolio - **[Sagar Sandbhor](https://Sagarsandbhor17.github.io)**
--🌍 I'm based in Kolhapur(Maharashtra), India.
+-🌍 I'm based in **Pune(Maharashtra),India.**
 - 🌱 I’m currently learning **Data Structures and Algorithms.,MERN Stack at Masai School**
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
