@@ -71,4 +71,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sagarsandbhor17">
 </a>
+ 📈 Activity Graph
 <a href="https://github.com/Sagarsandbhor17?tab=followers"><img src="https://img.shields.io/github/followers/Sagarsandbhor17?label=Followers&style=social" alt="GitHub Badge"></a>
