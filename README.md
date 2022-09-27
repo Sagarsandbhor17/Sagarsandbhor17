@@ -18,6 +18,12 @@
 - 📫 How to reach me **connect.sagar12500@gmail.com**
 
 <br/>
+<h2 align="left"><i>Lets Connect</i></h2>
+
+[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-sandbhor-896474233)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagar_sandbhor.17)
+[![Instagram](https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://Sagarsandbhor17.github.io/)
+<br/>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 
